@@ -15,6 +15,7 @@ To deploy this end to end example, you must:
 7. Browse to your downloaded solution zip package and click “Next”.
 
 ![Screenshot of PowerApps Importing a solution](/Images/5.PowerAppImportSolution.png)
+
 8. Review the import summary. Click on “Import” to complete the import process.![Screenshot of Power Apps Solution Import Summary](/Images/6.PowerAppImportSummary.png)
 9. Once import is successful, you should see the solution “AML PowerApps CarPrice Sample” installed.![Screenshot of Power Apps Import Confirmation](/Images/7.PowerAppImportSuccessful.png)
 10. Click on the Solution display name “AML PowerApps CarPrice Sample” to open the solution. Here we will see two assets – a Power Automate Cloud Flow named “CarPricePredictionFlow” and a Power Apps Canvas app named “Car Price Predictor”.![Screenshot of Power Apps Solutions List](/Images/8.PowerAppSolutionsList.png)
