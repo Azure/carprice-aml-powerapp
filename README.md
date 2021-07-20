@@ -1,6 +1,6 @@
-# Car Price Predictor - Power App and Power Automate Solution
+# Car Price Predictor - Azure ML + Power App Solution
 
-This repo provides the required Power App and Power Automate solution required to complete the example deployment detailed in the "Enabling Citizen AI with the Power Platform and Azure" <p align ="center"><img src="/Images/1.CarPriceAppFrontEnd.png">
+This repo provides the required Power App and Power Automate solution and step by step instructions required to complete the example deployment detailed in the "Enabling Citizen AI with the Power Platform and Azure" <p align ="center"><img src="/Images/1.CarPriceAppFrontEnd.png">
 
 ### Deploy this scenario
 
