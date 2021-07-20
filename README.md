@@ -1,14 +1,9 @@
-# Project
+# Car Price Predictor - Power App and Power Automate Solution
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo provides the required Power App and Power Automate solution required to complete the example deployment detailed in the "Enabling Citizen AI with the Power Platform and Azure" reference
 
-As the maintainer of this project, please make a few updates:
+## Deploy this scenario
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
 
 ## Contributing
 
