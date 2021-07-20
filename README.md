@@ -2,7 +2,7 @@
 
 This repo provides the required Power App and Power Automate solution required to complete the example deployment detailed in the "Enabling Citizen AI with the Power Platform and Azure" reference
 
-## Deploy this scenario
+### Deploy this scenario
 
 To deploy this end to end example, you must:
 
@@ -21,7 +21,7 @@ To deploy this end to end example, you must:
 13. You may now close Power Automate. From the Power Apps Maker portal, click on “Apps”. You should see the Car Price Predictor app installed. Click on it to launch the app.
 14. Make some selections and enter some values to the calculator screen, then click “Predict”. This will invoke the Cloud Flow, which calls the REST end point to the car price predictor in Azure ML and returns the value back to the app.
 
-## Contributing
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -35,7 +35,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+### Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
