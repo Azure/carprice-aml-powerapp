@@ -13,6 +13,7 @@ To deploy this end to end example, you must:
 5. In the Power Apps Maker portal, select your target environment to deploy the solution package. It is recommended to deploy on an Environment designated for learning or development/test.![Screenshot of Power Apps Maker Portal](/Images/3.PowerAppMakerPortal.png)
 6. Once you have selected your Environment, click on “Solutions” on the left blade to get to the Solutions page. Click “Import”.![Screenshot of Solutions pane](/Images/4.PowerAPPSolutionPane.png)
 7. Browse to your downloaded solution zip package and click “Next”.
+
 ![Screenshot of PowerApps Importing a solution](/Images/5.PowerAppImportSolution.png)
 8. Review the import summary. Click on “Import” to complete the import process.![Screenshot of Power Apps Solution Import Summary](/Images/6.PowerAppImportSummary.png)
 9. Once import is successful, you should see the solution “AML PowerApps CarPrice Sample” installed.![Screenshot of Power Apps Import Confirmation](/Images/7.PowerAppImportSuccessful.png)
