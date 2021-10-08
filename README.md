@@ -1,6 +1,6 @@
 # Car Price Predictor - Azure ML + Power App Solution
 
-This repo provides the required Power App and Power Automate solution and step by step instructions required to complete the example deployment detailed in the ["Enabling Citizen AI with the Power Platform and Azure"](https://github.com/Azure/carprice-aml-powerapp/blob/main/V3%20DRAFT%20POWER%20APPS%20%2B%20AML%20Architecture.pdf) paper.
+This repo provides the required Power App and Power Automate solution and step by step instructions required to complete the example deployment detailed in the ["Enabling Citizen AI with the Power Platform and Azure"](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/ai/citizen-ai-power-platform) reference architecture.
 
 <p align ="center"><img src="/Images/1.CarPriceAppFrontEnd.png">
 
